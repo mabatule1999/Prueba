@@ -13,4 +13,5 @@ gem 'rack-test', '~> 1.1'# default web driver for capybara
 gem 'better_errors', '~> 2.7' #better log errors on web
 gem "rubycritic"
 gem 'rubocop'
+gem 'shotgun_api_ruby'
 gem 'rake'
