@@ -1,5 +1,5 @@
 # A sample Gemfile
-
+ruby '2.6.5'
 source "https://rubygems.org"
 
 gem 'sinatra', '~> 2.0', '>= 2.0.8.1' #web framework
